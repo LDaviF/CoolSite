@@ -50,10 +50,10 @@ body {
 }
 
 .bnav {
-  width: 10rem;
+  width: 16rem;
   margin: 1rem;
-  height: 3rem;
-  border-radius: 0.25rem;
+  height: 10rem;
+  border-radius: 1rem;
   border-width: 0.001rem;
   background-color: #FFFDDE;
   transition: 1s;
